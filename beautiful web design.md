@@ -5,6 +5,7 @@
  - [YOSHIROTTEN][5]
  - [where is your data?][6]
  - [Apache ECharts][7]
+ - [Singulart][8]
 
 
   [1]: https://berman.xyz/
@@ -14,3 +15,4 @@
   [5]: http://www.yoshirotten.com/
   [6]: https://nextcloud.com/yourdata/
   [7]: https://echarts.apache.org/zh/index.html
+  [8]: https://www.xinyiparis.cn/en/
