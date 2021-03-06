@@ -10,4 +10,5 @@
 * [使用Github+Markdown搭键自己的笔记本](https://blog.csdn.net/ZM_Yang/article/details/105617607)
 * [SalaDic 沙拉查词](https://chrome.zzzmh.cn/info?token=cdonnmffkdaoajfknoeeecmchibpmkmg)
 * [Standard ML 学习教程 －什么是函数式编程](https://zhuanlan.zhihu.com/p/27748409)
-* 
+* [NodeJS nmp学习](https://www.runoob.com/nodejs/nodejs-install-setup.html)
+* [too long don't read](https://tldr.ostera.io/)
