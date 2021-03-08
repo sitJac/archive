@@ -12,3 +12,4 @@
 * [Standard ML 学习教程 －什么是函数式编程](https://zhuanlan.zhihu.com/p/27748409)
 * [NodeJS nmp学习](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 * [too long don't read](https://tldr.ostera.io/)
+* [轻量的工具集合](https://tools.miku.ac/)
