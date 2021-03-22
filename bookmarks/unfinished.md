@@ -15,3 +15,4 @@
 * [轻量的工具集合](https://tools.miku.ac/)
 * [热榜网站 the.top](https://www.v2ex.com/t/759615#reply70)
 * [导航站](https://xxoo.link/)
+* [Web前端开发 - W3Cschool](https://www.w3cschool.cn/position/webgcs.html)
