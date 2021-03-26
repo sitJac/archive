@@ -1,0 +1,5 @@
+ - yum install epel-release
+ - yum install sl
+ - yum install cowsay
+ - yum install linux_logo
+ - yum install -y boxes
