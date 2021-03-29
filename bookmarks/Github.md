@@ -1,1 +1,2 @@
-[how github built the github globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
+- [how github built the github globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
+- [Pimp your README with informational badges.](https://poser.pugx.org/)
