@@ -6,3 +6,6 @@
 - [/api.git.sdut.me](https://api.git.sdut.me/)
 - [github China Community](https://www.githubs.cn/)
 - [awesome github readme](https://www.v2ex.com/t/694579#reply65)
+- [Introduction To Github](https://lab.github.com/githubtraining/introduction-to-github)
+- [极速建立自己的博客站点，我的开源前后端分离全栈项目部署教程](https://www.v2ex.com/t/668485#reply1)
+- [gitstar Ranking](https://gitstar-ranking.com/)
