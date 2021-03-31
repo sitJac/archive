@@ -5,3 +5,4 @@
 - [hub.fastgit.org](https://hub.fastgit.org/)
 - [/api.git.sdut.me](https://api.git.sdut.me/)
 - [github China Community](https://www.githubs.cn/)
+- [awesome github readme](https://www.v2ex.com/t/694579#reply65)
