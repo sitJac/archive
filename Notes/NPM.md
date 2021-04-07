@@ -1,2 +1,3 @@
-- [nmp入门](https://juejin.cn/post/6844903811039903752)
+- [nmp入门 掘金](https://juejin.cn/post/6844903811039903752)
+- [nmp入门 知乎](https://zhuanlan.zhihu.com/p/27539908)
 - [nmp教程](https://www.npmjs.cn/getting-started/what-is-npm/)
