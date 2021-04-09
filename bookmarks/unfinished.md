@@ -16,3 +16,4 @@
 * [热榜网站 the.top](https://www.v2ex.com/t/759615#reply70)
 * [导航站](https://xxoo.link/)
 * [Web前端开发 - W3Cschool](https://www.w3cschool.cn/position/webgcs.html)
+* [用互联网档案馆存档网页](https://blog.bgme.me/posts/how-to-archive-a-web-page/)
