@@ -1,8 +1,6 @@
-# 欢迎来到我的互联网收藏夹☺︎
+# ︎<img title="hi" alt="Hi,it's me!" src="./Assets/hi.gif" width="40" height="40" />欢迎来到我的互联网收藏夹
 
-![HelloWorld.gif](https://i.loli.net/2021/04/14/8fGnQOChdNmjtPq.gif)
-
-
+︎<img title="hi" alt="Hi,it's me!" src="./Assets/HelloWorld.gif"/>
 做程序员最重要的还是一定要有自己的作品    
 能有一个作品和你的名字联系在一起，应当成为在职业生涯前期着意的方向   
 这个作品不是你的公司的项目，也不是你朋友请你帮忙的项目，更不是你接的私活 而是由你主导，也由你主刀的项目——你自己的作品   
@@ -12,5 +10,18 @@
 我仔细的审视了一下自己的能力，想要写出改变世界的产品恐怕是很难完成了，所以讨巧选择了整理归纳记录总结，把这个当作自己的产品，认认真真输出内容，踏踏实实埋下一颗种子，短时间内可能没有结果，但坚持做了说不定就能带来意外的收获~👀
 
 > * [Languages and Tools](https://github.com/sitJac/Marks/tree/main/Notes)
+<p align="center">
+	<img title="Hadoop" alt="Hadoop" src="./Assets/hadoop.svg" width="70" height="40" />
+	<img title="Spark" alt="Spark" src="./Assets/apache_spark.svg" width="80" height="40" />
+	<img title="Scala" alt="Scala" src="./Assets/scala.svg" width="40" height="40" />
+	<img title="Python" alt="Python" src="./Assets/python.svg" width="40" height="40" />
+	<img title="MySQL" alt="MySQL" src="./Assets/mysql.svg" width="40" height="40" />
+	<img title="Docker" alt="Docker" src="./Assets/docker.svg" height="40" />
+	<img title="Git" alt="Git" src="./Assets/git.svg" width="70" height="40" />
+	<img title="NodeJS" alt="NodeJS" src="./Assets/bamboo.svg" width="40" height="40" />	
+	<img title="AWS" alt="AWS" src="./Assets/aws.svg" width="60" height="40" />
+	<img title="linux" alt="linux" src="./Assets/linux-tux.svg" width="40" />
+</p>
+
 > * [Bookmarks](https://github.com/sitJac/Marks)
 
