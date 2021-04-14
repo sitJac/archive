@@ -14,14 +14,12 @@
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="./Assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="./Assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="./Assets/scala.svg" width="40" height="40" />
 	<img title="Python" alt="Python" src="./Assets/python.svg" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="./Assets/mysql.svg" width="40" height="40" />
 	<img title="Docker" alt="Docker" src="./Assets/docker.svg" height="40" />
 	<img title="Git" alt="Git" src="./Assets/git.svg" width="70" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="./Assets/nodejs.svg" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="./Assets/aws.svg" width="60" height="40" />
-	<img title="ubuntu" alt="ubuntu" src="./Assets/ubuntu.svg" width="40" />
 </p>
 
 > * [Bookmarks](https://github.com/sitJac/Marks)
