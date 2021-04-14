@@ -1,6 +1,7 @@
-# ︎<img title="hi" alt="Hi,it's me!" src="./Assets/hi.gif" width="40" height="40" />欢迎来到我的互联网收藏夹
+# ︎<img title="hi" alt="Hi,it's me!" src="./Assets/hi.gif" width="40" height="40" />  欢迎来到我的互联网收藏夹
 
 ︎<img title="hi" alt="Hi,it's me!" src="./Assets/HelloWorld.gif"/>
+
 做程序员最重要的还是一定要有自己的作品    
 能有一个作品和你的名字联系在一起，应当成为在职业生涯前期着意的方向   
 这个作品不是你的公司的项目，也不是你朋友请你帮忙的项目，更不是你接的私活 而是由你主导，也由你主刀的项目——你自己的作品   
@@ -18,9 +19,9 @@
 	<img title="MySQL" alt="MySQL" src="./Assets/mysql.svg" width="40" height="40" />
 	<img title="Docker" alt="Docker" src="./Assets/docker.svg" height="40" />
 	<img title="Git" alt="Git" src="./Assets/git.svg" width="70" height="40" />
-	<img title="NodeJS" alt="NodeJS" src="./Assets/bamboo.svg" width="40" height="40" />	
+	<img title="NodeJS" alt="NodeJS" src="./Assets/nodejs.svg" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="./Assets/aws.svg" width="60" height="40" />
-	<img title="linux" alt="linux" src="./Assets/linux-tux.svg" width="40" />
+	<img title="ubuntu" alt="ubuntu" src="./Assets/ubuntu.svg" width="40" />
 </p>
 
 > * [Bookmarks](https://github.com/sitJac/Marks)
