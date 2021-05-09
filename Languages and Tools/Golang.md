@@ -1,2 +1,3 @@
 - [学习 golang，大家喜欢看视频还是看文档](https://www.v2ex.com/t/768566#reply14)
 - [Go,Java cheat sheet](https://programming-idioms.org/cheatsheet/Java/Go)
+- [Go语言圣经中文版](https://books.studygolang.com/gopl-zh/)
