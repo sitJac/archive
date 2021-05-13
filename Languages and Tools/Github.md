@@ -10,3 +10,4 @@
 - [Introduction To Github](https://lab.github.com/githubtraining/introduction-to-github)
 - [极速建立自己的博客站点，我的开源前后端分离全栈项目部署教程](https://www.v2ex.com/t/668485#reply1)
 - [gitstar Ranking](https://gitstar-ranking.com/)
+- [解决git clone速度太慢的问题（SS全局代理）](https://daimajiaoliu.com/daima/4797b65cb1003f4)
