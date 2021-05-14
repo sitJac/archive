@@ -1,0 +1,6 @@
+- [Bigtable 具体是怎样一个东西？和 MapReduce, GFS 之间的关系是什么？](https://www.zhihu.com/question/19898246/answer/13289151)
+- 什么是伪分布式：伪分布式就是假分布式，假就假在只有一台机器而不是多台机器来完成一个任务,但是模拟了分布式的这个过程，所以伪分布式下Hadoop也就是虽然在一个机器上配置了hadoop的所有节点，但伪分布式完成了所有分布式所必须的事件。 伪分布式Hadoop和单机版最大区别就在于需要配置HDFS。
+- [使用WSL配置hadoop伪分布式环境](https://juejin.cn/post/6844904110051819533)
+- [Window 10 WSL 下hadoop 伪分布式安装](https://www.cnblogs.com/benfly/p/12706626.html)
+- [WSL搭建Hadoop与Spark环境](https://zhuanlan.zhihu.com/p/358639328)
+- [zookeeper快速入门一：zookeeper安装与启动](https://blog.csdn.net/lamfang/article/details/108866448)
