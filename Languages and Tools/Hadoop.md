@@ -4,3 +4,4 @@
 - [Window 10 WSL 下hadoop 伪分布式安装](https://www.cnblogs.com/benfly/p/12706626.html)
 - [WSL搭建Hadoop与Spark环境](https://zhuanlan.zhihu.com/p/358639328)
 - [zookeeper快速入门一：zookeeper安装与启动](https://blog.csdn.net/lamfang/article/details/108866448)
+- [.sh Permission Denied](https://blog.csdn.net/LWJdear/article/details/79868551)
