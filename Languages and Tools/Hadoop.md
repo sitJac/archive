@@ -5,3 +5,6 @@
 - [WSL搭建Hadoop与Spark环境](https://zhuanlan.zhihu.com/p/358639328)
 - [zookeeper快速入门一：zookeeper安装与启动](https://blog.csdn.net/lamfang/article/details/108866448)
 - [.sh Permission Denied](https://blog.csdn.net/LWJdear/article/details/79868551)
+- [bt panel](http://tencent.yundashi168.com/bt-panel)
+- [bt.cn](https://www.bt.cn/)
+- [宝塔面板的用途](https://www.zhihu.com/question/379400149)
