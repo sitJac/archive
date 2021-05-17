@@ -8,3 +8,4 @@
 - [bt panel](http://tencent.yundashi168.com/bt-panel)
 - [bt.cn](https://www.bt.cn/)
 - [宝塔面板的用途](https://www.zhihu.com/question/379400149)
+- [install hbase in wsl pseudo distributed mode](https://kontext.tech/column/hadoop/624/install-hbase-in-wsl-pseudo-distributed-mode)
