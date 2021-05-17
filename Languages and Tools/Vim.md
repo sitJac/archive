@@ -1,2 +1,2 @@
--[简明Vim练级攻略](https://coolshell.cn/articles/5426.html)
+- [简明Vim练级攻略](https://coolshell.cn/articles/5426.html)
 - [Learn Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn)
