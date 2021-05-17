@@ -1,4 +1,4 @@
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 	- [Tips](https://www.yuque.com/purequant/anki/piw8go) 
 - [Anki Connect](https://ankiweb.net/shared/info/2055492159)
-- 
+- [anki template](http://leaflyer.lofter.com/)
