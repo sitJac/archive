@@ -18,3 +18,4 @@
 * [Web前端开发 - W3Cschool](https://www.w3cschool.cn/position/webgcs.html)
 * [用互联网档案馆存档网页](https://blog.bgme.me/posts/how-to-archive-a-web-page/)
 * [复古网站](https://ash.ms)
+* [有趣的网站](https://nl.piliapp.com/)
