@@ -8,6 +8,9 @@
 	<a href = "./Languages and Tools/Github.md">
 		<img title="github" alt="github" src="./Assets/github.svg" width="60" height="60"/>	
 	</a>
+	<a href = "./Languages and Tools/Anki.md">
+		<img title=anki alt="anki" src="./Assets/anki.svg" width="60" height="60"/>	
+	</a>
 	
 </p>
 

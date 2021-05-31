@@ -1,4 +1,3 @@
-- [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
-	- [Tips](https://www.yuque.com/purequant/anki/piw8go) 
-- [Anki Connect](https://ankiweb.net/shared/info/2055492159)
-- [anki template](http://leaflyer.lofter.com/)
+- [Review Heatmap](https://ankiweb.net/shared/info/1771074083):Adds a heatmap graph to Anki's main window which visualizes past and future card review activity, similar to the contribution view on GitHub. 
+- [樱梦的Anki学习笔记](https://www.yuque.com/purequant/anki)
+- [Anki模板分享](http://leaflyer.lofter.com/)
