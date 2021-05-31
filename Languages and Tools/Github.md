@@ -1,4 +1,11 @@
-- [how github built the github globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
+- [Github漫游指南](https://github.phodal.com/)：A Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+- [Github proxy](https://ghproxy.com/)：GitHub文件, Releases, archive, gist, raw.githubusercontent.com文件代理加速下载服务.
+- [DownGit](https://downgit.github.io/#/home)：Create GitHub Resource Download Link
+- [FastGit](http://fastgit.org/)
+- [GitHub上整理的一些工具](https://www.runoob.com/w3cnote/github-tools.html)
+- [Laughing my fucking ass off in github](https://my.oschina.net/julyedu/blog/3100115)①
+- [Laughing my fucking ass off in github](https://my.oschina.net/julyedu/blog/3100115https://blog.csdn.net/m0_37609579/article/details/103108301)②
+- [How github built the github globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
 - [Learn Git bench](https://learngitbranching.js.org/?demo)
 - [Pimp your README with informational badges.](https://poser.pugx.org/)
 - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
@@ -6,8 +13,11 @@
 - [hub.fastgit.org](https://hub.fastgit.org/)
 - [api.git.sdut.me](https://api.git.sdut.me/)
 - [github China Community](https://www.githubs.cn/)
-- [awesome github readme](https://www.v2ex.com/t/694579#reply65)
+- [Awesome github readme](https://www.v2ex.com/t/694579#reply65)
 - [Introduction To Github](https://lab.github.com/githubtraining/introduction-to-github)
-- [极速建立自己的博客站点，我的开源前后端分离全栈项目部署教程](https://www.v2ex.com/t/668485#reply1)
+- [极速建立自己的博客站点，开源前后端分离全栈项目部署教程](https://www.v2ex.com/t/668485#reply1)
+- [How to setup your github.io blog](https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/)
 - [gitstar Ranking](https://gitstar-ranking.com/)
-- [解决git clone速度太慢的问题（SS全局代理）](https://daimajiaoliu.com/daima/4797b65cb1003f4)
+- [MarkDown风格指南](https://google.github.io/styleguide/docguide/style.html)
+- [CS-Note](https://cyc2018.github.io/CS-Notes/#/)
+- [修改DNS加速访问Github](https://www.uxahz.com/aicode/2019-07-08/326.html)
