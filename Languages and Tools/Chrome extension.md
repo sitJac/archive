@@ -1,2 +1,0 @@
-- [Crx4Chrome](https://www.crx4chrome.com/)
-- [Zhihu articles](https://zhuanlan.zhihu.com/p/80305764)
