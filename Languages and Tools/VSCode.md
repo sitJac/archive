@@ -1,1 +1,3 @@
-
+- [Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/vscode)
+- [Awesome vscode](https://github.com/viatsko/awesome-vscode)
+- [Awesome vscode cn](https://github.com/formulahendry/awesome-vscode-cn)
