@@ -14,7 +14,9 @@
 	<a href = "./Languages and Tools/Docker.md">
 		<img title=docker alt="docker" src="./Assets/docker.svg" width="60" height="60"/>	
 	</a>
-	
+	<a href = "./Languages and Tools/ubuntu.md">
+		<img title=ubuntu alt="ubuntu" src="./Assets/ubuntu.svg" width="60" height="60"/>	
+	</a>
 </p>
 
 
