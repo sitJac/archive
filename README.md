@@ -21,6 +21,12 @@
 		<img title=vscode alt="vscode" src="./Assets/vscode.svg" width="60" height="60"/>	
 	</a>
 </p>
+		
+<p align="center">
+<a href = "./Languages and Tools/Hadoop.md">
+		<img title=hadoop alt="hadoop" src="./Assets/hadoop.svg" width="60" height="60"/>	
+	</a>
+</p>
 
 
 
