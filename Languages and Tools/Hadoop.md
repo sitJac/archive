@@ -6,3 +6,4 @@
 - [Bigtable, MapReduce, GFS 之间的关系是什么？](https://www.zhihu.com/question/19898246/answer/13289151)
 - [基于Hadoop的电信大数据分析的设计与实现 - 硕士论文](https://tow.cnki.net/kcms/detail/detail.aspx?filename=1016901800.nh&dbcode=CRJT_CMFD&dbname=CMFDTOTAL&v=)
 - [Hadoop 入门例子实践](https://github.com/sfturing/hadoop-example)
+- [Hadoop 笔记](https://blog.csdn.net/m0_46413065/category_10888790.html?spm=1001.2014.3001.5482)
