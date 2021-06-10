@@ -1,0 +1,1 @@
+- [Ubuntu bash experience for Windows Terminal without Linux subsystem](https://anduin.aiursoft.com/post/2020/3/19/ubuntu-bash-experience-for-windows-terminal-without-linux-subsystem)
