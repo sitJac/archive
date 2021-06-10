@@ -17,9 +17,13 @@
 	<a href = "./Languages and Tools/Ubuntu.md">
 		<img title=ubuntu alt="ubuntu" src="./Assets/ubuntu.svg" width="60" height="60"/>	
 	</a>
+	<a href = "./Languages and Tools/Terminal.md">
+		<img title=terminal alt="terminal" src="./Assets/terminal.png" width="60" height="60"/>	
+	</a>
 	<a href = "./Languages and Tools/VSCode.md">
 		<img title=vscode alt="vscode" src="./Assets/vscode.svg" width="60" height="60"/>	
 	</a>
+	
 </p>
 		
 <p align="center">
