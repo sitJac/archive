@@ -2,3 +2,4 @@
 - [樱梦的Anki学习笔记](https://www.yuque.com/purequant/anki)
 - [Anki模板分享](http://leaflyer.lofter.com/)
 - [Anki addons](https://ankiweb.net/shared/addons/2.1)
+- [Anki Docs](https://docs.ankiweb.net/#/)
