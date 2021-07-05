@@ -27,8 +27,11 @@
 </p>
 		
 <p align="center">
-<a href = "./Languages and Tools/Hadoop.md">
+	<a href = "./Languages and Tools/Hadoop.md">
 		<img title=hadoop alt="hadoop" src="./Assets/hadoop.svg" width="60" height="60"/>	
+	</a>
+	<a href = "./Languages and Tools/C++.md">
+		<img title=c++ alt="c++" src="./Assets/c++.svg" width="60" height="60"/>	
 	</a>
 </p>
 
