@@ -1,3 +1,4 @@
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083):Adds a heatmap graph to Anki's main window which visualizes past and future card review activity, similar to the contribution view on GitHub. 
 - [樱梦的Anki学习笔记](https://www.yuque.com/purequant/anki)
 - [Anki模板分享](http://leaflyer.lofter.com/)
+- [Anki addons](https://ankiweb.net/shared/addons/2.1)
