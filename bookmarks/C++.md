@@ -1,0 +1,1 @@
+- [std::toupper](https://en.cppreference.com/w/cpp/string/byte/toupper)
