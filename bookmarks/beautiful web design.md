@@ -7,6 +7,7 @@
  - [Apache ECharts][7]
  - [Singulart][8]
  - [shahriarshafin-web designer & front‑end developer][9]
+ - [wangsilu-a pianist][10]
 
 
   [1]: https://berman.xyz/
@@ -18,3 +19,4 @@
   [7]: https://echarts.apache.org/zh/index.html
   [8]: https://www.xinyiparis.cn/en/
   [9]: https://shahriarshafin.me/index.html
+  [10]: https://wangsilu.com/
