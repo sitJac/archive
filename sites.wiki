@@ -1,6 +1,6 @@
 <h1>俺收藏的各色网站</h1>
 
-= 大牛的个人网站 =
+= Personal Blog Lists =
 
 {|
 ! 名称 !! 链接 !! 说明
@@ -14,6 +14,14 @@
 | '''面向信仰编程''' || [https://draveness.me/] || draveness的个人网站
 |-
 | '''malic.xyz''' || [https://www.malic.xyz/] || 个人网站，主要是关于数据算法、编程技术、外语的内容，偶尔也聊一聊所见所闻，比如游戏体验与感受、有趣的文学或艺术作品等。
+|-
+| ''' meh''' || [https://nee.lv/] || blog style
+|-
+| '''Huahua's Tech Road''' || [https://zxi.mytechroad.com/blog] || 花花酱的博客
+|-
+| '''RelatoCorto Sebastian's Blog Fiction''' || [https://www.relatocorto.com/] || Here you'll find all the author's creations in English and Spanish. Also his weekly stories in different genres: action and adventure, fantasy, romance, science fiction and thriller. Enjoy your visit and let your imagination run wild.
+|-
+| '''杨二''' || [https://yangerxiao.com/] || yangerxiao的个人网站
 |}
 
 ----
