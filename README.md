@@ -32,7 +32,3 @@
 		<img title=c++ alt="c++" src="./Assets/c++.svg" width="60" height="60"/>	
 	</a>
 </p>
-
-
-
-
