@@ -26,6 +26,8 @@
 | '''Dev as life''' || [https://www.craftz.dog/] || A full-stack developer based in Japan.
 |-
 | '''柳婼 の blog''' || [https://www.liuchuo.net/] || PAT \ 蓝桥 \ LeetCode学习路径 & 刷题经验
+|-
+| '''Tianyi Cui (崔添翼)''' || [http://tianyicui.com/] || a senior software developer working at Jane Street in its New York office
 |}
 
 ----
