@@ -30,6 +30,8 @@
 | '''Tianyi Cui (崔添翼)''' || [http://tianyicui.com/] || a senior software developer working at Jane Street in its New York office
 |-
 | '''Anthony Fu''' || [https://antfu.me/] || a fanatical open sourceror working at NuxtLabs.
+|-
+|
 |}
 
 ----
