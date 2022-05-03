@@ -31,7 +31,7 @@
 |-
 | '''Anthony Fu''' || [https://antfu.me/] || a fanatical open sourceror working at NuxtLabs.
 |-
-|
+| ''' fanfankill's blog''' || [https://fanfankill.github.io/] || 精于心，简于形
 |}
 
 ----
