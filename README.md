@@ -21,7 +21,6 @@
 	<a href = "./Languages and Tools/VSCode.md">
 		<img title=vscode alt="vscode" src="./Assets/vscode.svg" width="60" height="60"/>	
 	</a>
-	
 </p>
 		
 <p align="center">
