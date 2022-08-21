@@ -33,6 +33,7 @@
 |-
 | ''' fanfankill's blog''' || [https://fanfankill.github.io/] || 精于心，简于形
 |-
+| '''guoxingyong's blog''' || [https://www.guoxingyong.net/] || 北漂的嵌入式从业者,主要从事物联网产品软硬件开发
 
 |}
 
